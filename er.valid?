@@ -1,8 +1,0 @@
- => 
-[32m#<User:0x00007f04511c64f0[0m
- id: [34m[1m1[0m,
- name: [31m[1m"[0m[31mExample User[0m[31m[1m"[0m,
- email: [31m[1m"[0m[31muser@example.com[0m[31m[1m"[0m,
- created_at: Thu, 18 Apr 2024 09:05:33.228063000 UTC +00:00,
- updated_at: Thu, 18 Apr 2024 09:05:33.228063000 UTC +00:00,
- password_digest: [31m[1m"[0m[31m[FILTERED][0m[31m[1m"[0m[32m>[0m 
